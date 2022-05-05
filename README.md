@@ -7,6 +7,7 @@ How to download:
 3. from the folder "PasswordIdentifier-main" pull out the folder "PasswordIdentifier-main"
     
     (Optional) delete the ZIP folder and the remaining empty "PasswordIdentifier-main" folder
+    
     (Optional) Rename the folder "PasswordIdentifier-main" to "PasswordIdentifier" or to any name you want
     
 4. open the folder with your code editor such as Visual Studio Code and run "window.py"
