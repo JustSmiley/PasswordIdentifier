@@ -3,7 +3,7 @@ A simple password identifier: numbers, letters, upper and lower.
 
 How to download:
 1. go to code and press download ZIP
-2. from the folder "PasswordIdentifier-main" pull out the folder "PasswordIdentifier-main"
+2. from the folder "PasswordIdentifier-main.zip" pull out the folder "PasswordIdentifier-main"
     
     (Optional) delete the ZIP folder and the remaining empty "PasswordIdentifier-main" folder
     
